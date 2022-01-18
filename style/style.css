@@ -356,13 +356,13 @@ h3 {
   bottom: 0%;
   left: 50%;
   transform: translate(-50%);
-  opacity: 0;
-  transition: 500ms opacity linear;
+  /* opacity: 0;
+  transition: 500ms opacity linear; */
 }
 
-.portfolio-img:hover .portfolio-img-text {
+/* .portfolio-img:hover .portfolio-img-text {
   opacity: 1;
-}
+} */
 
 /*----------------TEAM---------------------*/
 .team {
